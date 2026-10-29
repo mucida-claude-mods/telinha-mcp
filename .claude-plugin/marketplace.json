@@ -1,0 +1,16 @@
+{
+  "name": "telinha-mcp",
+  "owner": {
+    "name": "Lucas Mucida"
+  },
+  "metadata": {
+    "description": "telinha-mcp: a Claude Code mod."
+  },
+  "plugins": [
+    {
+      "name": "telinha-mcp",
+      "source": "./",
+      "description": "A pane that opens whenever the agent or a subagent calls an MCP tool, saying in plain words which MCP was called, what it was asked and whether it finished."
+    }
+  ]
+}

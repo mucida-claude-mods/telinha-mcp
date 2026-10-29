@@ -1,0 +1,16 @@
+{
+  "name": "telinha-mcp",
+  "version": "0.1.0",
+  "description": "A pane that opens whenever the agent or a subagent calls an MCP tool, saying in plain words which MCP was called, what it was asked and whether it finished.",
+  "author": {
+    "name": "Lucas Mucida",
+    "url": "https://github.com/mucida-claude-mods"
+  },
+  "repository": "https://github.com/mucida-claude-mods/telinha-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "pane",
+    "observability"
+  ]
+}
